@@ -29,23 +29,14 @@ module Haikunator
 
     def adjectives
       %w(
-        Amber Amethyst Apricot Aqua Aquamarine Auburn Azure Beige Blue Blush Brass Bronze
-        Burgundy Byzantine Capri Cardinal Carmine Carnelian Celadon Cerise
-        Cerulean Chamoisee Chartreuse Cherry Chestnut Cinereous Cinnabar Cinnamon Citrine Cobalt Copper Coral
-        Cordovan Cornflower Cream Crimson Cyan Daffodil Dandelion Ecru Eggplant Eggshell Emerald Fallow
-        Fawn Feldgrau Fuchsia Gainsboro Gamboge Ginger Gold Goldenrod Gray Green
-        Honeydew Indigo Iris Isabelline Ivory Jade Jasmine Jasper Jet Jonquil Lapis Laurel
-        ExtinguishtestLavender Lemon Licorice Lilac Lime Linen Magenta Magnolia Mahogany Maize Malachite MarditestGras
-        Maroon Mauve Mauvelous Midnight Mint Moonstone Moss Meadow
-        Mulberry Myrtle Navy Neon Ochre Olive Olivine Onyx Orange Orchid
-        PasteltestBlue PasteltestGreen PasteltestMagenta PasteltestOrange PasteltestPink PasteltestPurple PasteltestRed
-        PasteltestViolet PasteltestYellow Peach Pear Pearl Peridot Periwinkle Persimmon Pine Pink Pistachio Platinum Plum Puce Pumpkin
-        Purple Quartz Rackley RawtestUmber Razzmatazz Red Redwood Regalia Rose Rosewood RossotestCorsa RoyaltestFuchsia
-        RoyaltestPurple Ruby Rufous Russet SaddletestBrown Saffron Salmon Sand Sangria Sapphire Scarlet Seafoam Seashell Sepia Shadow
-        Shamrock MimitestPink Sienna Silver Sinopia Skobeloff SkytestBlue SkytestMagenta Slate SmokeytestTopaz SmokytestBlack Snow Spring
-        Steel Stizza Stormcloud Straw Sunglow Sunset Tangelo Tangerine Taupe Matcha Teal Thistle Tiffany 
-        Timberwolf Topaz Turquoise TuscantestRed TwilighttestLavender Ultraviolet Ultramarine Umber Urobilin VenetiantestRed Verdigris Vermilion 
-        Violet Viridian Wenge White Wisteria Xanadu Yellow Zaffre
+        autumn hidden bitter misty silent empty dry dark summer
+        icy delicate quiet white cool spring winter patient
+        twilight dawn crimson wispy weathered blue billowing
+        broken cold damp falling frosty green long late lingering
+        bold little morning muddy old red still small
+        sparkling shy wandering withered wild black
+        young solitary fragrant aged snowy proud floral
+        restless divine polished ancient purple lively nameless
       )
     end
 
