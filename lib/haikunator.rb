@@ -29,27 +29,31 @@ module Haikunator
 
     def adjectives
       %w(
-        autumn hidden bitter misty silent empty dry dark summer
-        icy delicate quiet white cool spring winter patient
-        twilight dawn crimson wispy weathered blue billowing
-        broken cold damp falling frosty green long late lingering
-        bold little morning muddy old red still small
-        sparkling shy wandering withered wild black
-        young solitary fragrant aged snowy proud floral
-        restless divine polished ancient purple lively nameless
+        Amber Amethyst Apricot Aqua Aquamarine Auburn Azure Baby-Blue Baby-Pink Beige Bleu-De-France Blue Blush Brass Bronze
+        Burgundy Burnt-Orange Burnt-Sienna Burnt-Umber Byzantine Canary-Yellow Capri Cardinal Carmine Carnelian Celadon Cerise
+        Cerulean Chamoisee Chartreuse Cherry Cherry-Blossom-Pink Chestnut Cinereous Cinnabar Cinnamon Citrine Cobalt Copper Coral
+        Cordovan Cornflower-Blue Cream Crimson Cyan Daffodil Dandelion Dark-Blue Ecru Eggplant Eggshell Emerald English-Lavender Fallow
+        Fawn Feldgrau French-Beige French-Blue French-Lilac French-Rose Fuchsia Gainsboro Gamboge Ginger Gold Goldenrod Gray Green
+        Harvest-Gold Honeydew Hot-Pink Hunter-Green Indigo Iris Isabelline Ivory Jade Jasmine Jasper Jet Jonquil Lapis-Lazuli Laurel-Green
+        Extinguish-Lavender Lemon Lemon-Chiffon Licorice Lilac Lime-Green Linen Magenta Magnolia Mahogany Maize Malachite Mardi-Gras
+        Maroon Mauve Mauvelous Midnight Mikado-Yellow Mint Misty-Rose Mode-Beige Moonstone-Blue Moss-Green Mountain-Meadow Mountbatten-Pink
+        Mulberry Myrtle Nadeshiko-Pink Napier-Green Naples-Yellow Navy-Blue Neon-Fuchsia Ochre Olive Olivine Onyx Opera-Mauve Orange Orchid
+        Paris-Green Pastel-Blue Pastel-Brown Pastel-Gray Pastel-Green Pastel-Magenta Pastel-Orange Pastel-Pink Pastel-Purple Pastel-Red 
+        Pastel-Violet Pastel-Yellow Peach Pear Pearl Peridot Periwinkle Persimmon Pine-Green Pink Pistachio Platinum Plum Puce Pumpkin
+        Purple Quartz Rackley Raw-Umber Razzmatazz Red Redwood Regalia Robin-Egg-Blue Rose Rosewood Rosso-Corsa Royal-Azure Royal-Fuchsia
+        Royal-Purple Ruby Rufous Russet Saddle-Brown Saffron Salmon Sand Sangria Sapphire Scarlet Sea-Blue Seashell Sepia Shadow
+        Shamrock-Green Mimi-Pink Sienna Silver Sinopia Skobeloff Sky-Blue Sky-Magenta Slate-Blue Smokey-Topaz Smoky-Black Snow Spring-Green
+        Steel-Blue Stil-De-Grain-Yellow Stizza Stormcloud Straw Sunglow Sunset Tangelo Tangerine Taupe Tea-Green Teal Thistle Tiffany-Blue 
+        Timberwolf Topaz Turquoise Tuscan-Red Twilight-Lavender Ultraviolet Ultramarine Umber Urobilin Venetian-Red Verdigris Vermilion 
+        Violet Viridian Wenge White Wisteria Xanadu Yellow Zaffre
       )
     end
 
     def nouns
       %w(
-        waterfall river breeze moon rain wind sea morning
-        snow lake sunset pine shadow leaf dawn glitter forest
-        hill cloud meadow sun glade bird brook butterfly
-        bush dew dust field fire flower firefly feather grass
-        haze mountain night pond darkness snowflake silence
-        sound sky shape surf thunder violet water wildflower
-        wave water resonance sun dream cherry tree fog
-        frost voice paper frog smoke star
+        heron egret swan goose mallard osprey eagle hawk kestrel falcon gull dove owl swallow Blue-Jay crow chickadee bluebird
+        robin catbird mockingbird vireo warbler cardinal sparrow junco blackbird grackle finch goldfinch starling kingbird phoebe swift oriole 
+        thrasher pelican avocet tern cormorant raven wren tanager kinglet coot quail 
       )
     end
   end
