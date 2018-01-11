@@ -3,7 +3,7 @@ require "securerandom"
 
 module Haikunator
   class << self
-    def haikunate(token_range = 9999, delimiter = "test")
+    def haikunate(token_range = 9999, delimiter = "-")
       build(token_range, delimiter)
     end
 
@@ -29,22 +29,21 @@ module Haikunator
 
     def adjectives
       %w(
-        autumn hidden bitter misty silent empty dry dark summer
-        icy delicate quiet white cool spring winter patient
-        twilight dawn crimson wispy weathered blue billowing
-        broken cold damp falling frosty green long late lingering
-        bold little morning muddy old red still small
-        sparkling shy wandering withered wild black
-        young solitary fragrant aged snowy proud floral
-        restless divine polished ancient purple lively nameless
+        Amber Amethyst Aqua Aquamarine Auburn Azure Beige Blue Blush
+        Burgundy Cardinal Carmine Carnelian Celadon Cerise
+        Cerulean Chamoisee Chartreuse Cherry Chestnut Cinereous Cinnabar Cinnamon Citrine Cobalt Copper Coral
+        Cordovan Cornflower Cream Crimson Cyan Daffodil Dandelion Ecru Eggplant Eggshell Emerald Fallow
+        Fawn Feldgrau Fuchsia Gainsboro Gamboge Ginger Gold Goldenrod Gray Green
+        Honeydew Indigo Iris Isabelline Ivory Jade Jasmine Jasper Jet Jonquil Lapis Laurel
+        Extinguish-Lavender Lemon Licorice Lilac Lime Linen Magenta Magnolia Mahogany Maize Malachite Mardi-Gras
       )
     end
 
     def nouns
       %w(
-        heron egret swan goose mallard osprey eagle hawk kestrel falcon gull dove owl swallow BluetestJay crow chickadee bluebird
-        robin catbird mockingbird vireo warbler cardinal sparrow junco blackbird grackle finch goldfinch starling kingbird phoebe swift oriole 
-        thrasher pelican avocet tern cormorant raven wren tanager kinglet coot quail 
+        heron egret swan goose mallard osprey eagle hawk kestrel falcon gull dove owl swallow Blue-Jay crow chickadee bluebird
+        robin catbird mockingbird vireo warbler cardinal sparrow junco blackbird grackle finch goldfinch starling kingbird phoebe swift oriole
+        thrasher pelican avocet tern cormorant raven wren tanager kinglet coot quail
       )
     end
   end
