@@ -29,7 +29,14 @@ module Haikunator
 
     def adjectives
       %w(
-        Amber Amethyst Aqua
+        autumn hidden bitter misty silent empty dry dark summer
+        icy delicate quiet white cool spring winter patient
+        twilight dawn crimson wispy weathered blue billowing
+        broken cold damp falling frosty green long late lingering
+        bold little morning muddy old red still small
+        sparkling shy wandering withered wild black
+        young solitary fragrant aged snowy proud floral
+        restless divine polished ancient purple lively nameless
       )
     end
 
