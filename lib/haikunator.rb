@@ -32,10 +32,6 @@ module Haikunator
         Amber Amethyst Aqua Aquamarine Auburn Azure Beige Blue Blush
         Burgundy Cardinal Carmine Carnelian Celadon Cerise
         Cerulean Chamoisee Chartreuse Cherry Chestnut Cinereous Cinnabar Cinnamon Citrine Cobalt Copper Coral
-        Cordovan Cornflower Cream Crimson Cyan Daffodil Dandelion Ecru Eggplant Eggshell Emerald Fallow
-        Fawn Feldgrau Fuchsia Gainsboro Gamboge Ginger Gold Goldenrod Gray Green
-        Honeydew Indigo Iris Isabelline Ivory Jade Jasmine Jasper Jet Jonquil Lapis Laurel
-        Extinguish-Lavender Lemon Licorice Lilac Lime Linen Magenta Magnolia Mahogany Maize Malachite Mardi-Gras
       )
     end
 
