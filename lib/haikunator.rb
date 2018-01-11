@@ -35,16 +35,16 @@ module Haikunator
         Cordovan Cornflower Cream Crimson Cyan Daffodil Dandelion Ecru Eggplant Eggshell Emerald Fallow
         Fawn Feldgrau Fuchsia Gainsboro Gamboge Ginger Gold Goldenrod Gray Green
         Honeydew Indigo Iris Isabelline Ivory Jade Jasmine Jasper Jet Jonquil Lapis Laurel
-        'Extinguish Lavender' Lemon Licorice Lilac Lime Linen Magenta Magnolia Mahogany Maize Malachite 'Mardi-Gras'
+        Extinguish&nbspLavender Lemon Licorice Lilac Lime Linen Magenta Magnolia Mahogany Maize Malachite Mardi&nbspGras
         Maroon Mauve Mauvelous Midnight Mint Moonstone Moss Meadow
         Mulberry Myrtle Navy Neon Ochre Olive Olivine Onyx Orange Orchid
-        'Pastel Blue' 'Pastel Green' 'Pastel Magenta' 'Pastel Orange' 'Pastel Pink' 'Pastel Purple' 'Pastel Red' 
-        'Pastel Violet' 'Pastel Yellow' Peach Pear Pearl Peridot Periwinkle Persimmon Pine Pink Pistachio Platinum Plum Puce Pumpkin
-        Purple Quartz Rackley 'Raw Umber' Razzmatazz Red Redwood Regalia Rose Rosewood 'Rosso Corsa' 'Royal Fuchsia'
-        'Royal Purple' Ruby Rufous Russet Saddle-Brown Saffron Salmon Sand Sangria Sapphire Scarlet Seafoam Seashell Sepia Shadow
-        Shamrock 'Mimi Pink' Sienna Silver Sinopia Skobeloff 'Sky Blue' 'Sky Magenta' Slate 'Smokey Topaz' 'Smoky Black' Snow Spring
-        Steel 'Stil De Grain Yellow' Stizza Stormcloud Straw Sunglow Sunset Tangelo Tangerine Taupe Matcha Teal Thistle Tiffany 
-        Timberwolf Topaz Turquoise 'Tuscan Red' 'Twilight Lavender' Ultraviolet Ultramarine Umber Urobilin 'Venetian Red' Verdigris Vermilion 
+        Pastel&nbspBlue Pastel&nbspGreen Pastel&nbspMagenta Pastel&nbspOrange Pastel&nbspPink Pastel&nbspPurple Pastel&nbspRed
+        Pastel&nbspViolet Pastel&nbspYellow Peach Pear Pearl Peridot Periwinkle Persimmon Pine Pink Pistachio Platinum Plum Puce Pumpkin
+        Purple Quartz Rackley Raw&nbspUmber Razzmatazz Red Redwood Regalia Rose Rosewood Rosso&nbspCorsa Royal&nbspFuchsia
+        Royal&nbspPurple Ruby Rufous Russet Saddle-Brown Saffron Salmon Sand Sangria Sapphire Scarlet Seafoam Seashell Sepia Shadow
+        Shamrock Mimi&nbspPink Sienna Silver Sinopia Skobeloff Sky&nbspBlue Sky&nbspMagenta Slate Smokey&nbspTopaz Smoky&nbspBlack Snow Spring
+        Steel Stil&nbspDe&nbspGrain&nbspYellow Stizza Stormcloud Straw Sunglow Sunset Tangelo Tangerine Taupe Matcha Teal Thistle Tiffany 
+        Timberwolf Topaz Turquoise Tuscan&nbspRed Twilight&nbspLavender Ultraviolet Ultramarine Umber Urobilin Venetian&nbspRed Verdigris Vermilion 
         Violet Viridian Wenge White Wisteria Xanadu Yellow Zaffre
       )
     end
