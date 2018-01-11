@@ -29,9 +29,7 @@ module Haikunator
 
     def adjectives
       %w(
-        Amber Amethyst Aqua Aquamarine Auburn Azure Beige Blue Blush
-        Burgundy Cardinal Carmine Carnelian Celadon Cerise
-        Cerulean Chamoisee Chartreuse Cherry Chestnut Cinereous Cinnabar Cinnamon Citrine Cobalt Copper Coral
+        Amber Amethyst Aqua
       )
     end
 
