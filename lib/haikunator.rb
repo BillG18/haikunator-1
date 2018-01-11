@@ -29,22 +29,22 @@ module Haikunator
 
     def adjectives
       %w(
-        Amber Amethyst Apricot Aqua Aquamarine Auburn Azure Baby-Blue Baby-Pink Beige Bleu-De-France Blue Blush Brass Bronze
-        Burgundy Burnt-Orange Burnt-Sienna Burnt-Umber Byzantine Canary-Yellow Capri Cardinal Carmine Carnelian Celadon Cerise
-        Cerulean Chamoisee Chartreuse Cherry Cherry-Blossom-Pink Chestnut Cinereous Cinnabar Cinnamon Citrine Cobalt Copper Coral
-        Cordovan Cornflower-Blue Cream Crimson Cyan Daffodil Dandelion Dark-Blue Ecru Eggplant Eggshell Emerald English-Lavender Fallow
-        Fawn Feldgrau French-Beige French-Blue French-Lilac French-Rose Fuchsia Gainsboro Gamboge Ginger Gold Goldenrod Gray Green
-        Harvest-Gold Honeydew Hot-Pink Hunter-Green Indigo Iris Isabelline Ivory Jade Jasmine Jasper Jet Jonquil Lapis-Lazuli Laurel-Green
-        Extinguish-Lavender Lemon Lemon-Chiffon Licorice Lilac Lime-Green Linen Magenta Magnolia Mahogany Maize Malachite Mardi-Gras
-        Maroon Mauve Mauvelous Midnight Mikado-Yellow Mint Misty-Rose Mode-Beige Moonstone-Blue Moss-Green Mountain-Meadow Mountbatten-Pink
-        Mulberry Myrtle Nadeshiko-Pink Napier-Green Naples-Yellow Navy-Blue Neon-Fuchsia Ochre Olive Olivine Onyx Opera-Mauve Orange Orchid
-        Paris-Green Pastel-Blue Pastel-Brown Pastel-Gray Pastel-Green Pastel-Magenta Pastel-Orange Pastel-Pink Pastel-Purple Pastel-Red 
-        Pastel-Violet Pastel-Yellow Peach Pear Pearl Peridot Periwinkle Persimmon Pine-Green Pink Pistachio Platinum Plum Puce Pumpkin
-        Purple Quartz Rackley Raw-Umber Razzmatazz Red Redwood Regalia Robin-Egg-Blue Rose Rosewood Rosso-Corsa Royal-Azure Royal-Fuchsia
-        Royal-Purple Ruby Rufous Russet Saddle-Brown Saffron Salmon Sand Sangria Sapphire Scarlet Sea-Blue Seashell Sepia Shadow
-        Shamrock-Green Mimi-Pink Sienna Silver Sinopia Skobeloff Sky-Blue Sky-Magenta Slate-Blue Smokey-Topaz Smoky-Black Snow Spring-Green
-        Steel-Blue Stil-De-Grain-Yellow Stizza Stormcloud Straw Sunglow Sunset Tangelo Tangerine Taupe Tea-Green Teal Thistle Tiffany-Blue 
-        Timberwolf Topaz Turquoise Tuscan-Red Twilight-Lavender Ultraviolet Ultramarine Umber Urobilin Venetian-Red Verdigris Vermilion 
+        Amber Amethyst Apricot Aqua Aquamarine Auburn Azure Beige Blue Blush Brass Bronze
+        Burgundy Byzantine Capri Cardinal Carmine Carnelian Celadon Cerise
+        Cerulean Chamoisee Chartreuse Cherry Chestnut Cinereous Cinnabar Cinnamon Citrine Cobalt Copper Coral
+        Cordovan Cornflower Cream Crimson Cyan Daffodil Dandelion Ecru Eggplant Eggshell Emerald Fallow
+        Fawn Feldgrau Fuchsia Gainsboro Gamboge Ginger Gold Goldenrod Gray Green
+        Honeydew Indigo Iris Isabelline Ivory Jade Jasmine Jasper Jet Jonquil Lapis Laurel
+        'Extinguish Lavender' Lemon Licorice Lilac Lime Linen Magenta Magnolia Mahogany Maize Malachite 'Mardi-Gras'
+        Maroon Mauve Mauvelous Midnight Mint Moonstone Moss Meadow
+        Mulberry Myrtle Navy Neon Ochre Olive Olivine Onyx Orange Orchid
+        'Pastel Blue' 'Pastel Green' 'Pastel Magenta' 'Pastel Orange' 'Pastel Pink' 'Pastel Purple' 'Pastel Red' 
+        'Pastel Violet' 'Pastel Yellow' Peach Pear Pearl Peridot Periwinkle Persimmon Pine Pink Pistachio Platinum Plum Puce Pumpkin
+        Purple Quartz Rackley 'Raw Umber' Razzmatazz Red Redwood Regalia Rose Rosewood 'Rosso Corsa' 'Royal Fuchsia'
+        'Royal Purple' Ruby Rufous Russet Saddle-Brown Saffron Salmon Sand Sangria Sapphire Scarlet Seafoam Seashell Sepia Shadow
+        Shamrock 'Mimi Pink' Sienna Silver Sinopia Skobeloff 'Sky Blue' 'Sky Magenta' Slate 'Smokey Topaz' 'Smoky Black' Snow Spring
+        Steel 'Stil De Grain Yellow' Stizza Stormcloud Straw Sunglow Sunset Tangelo Tangerine Taupe Matcha Teal Thistle Tiffany 
+        Timberwolf Topaz Turquoise 'Tuscan Red' 'Twilight Lavender' Ultraviolet Ultramarine Umber Urobilin 'Venetian Red' Verdigris Vermilion 
         Violet Viridian Wenge White Wisteria Xanadu Yellow Zaffre
       )
     end
