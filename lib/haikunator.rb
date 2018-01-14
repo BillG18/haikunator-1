@@ -53,7 +53,7 @@ module Haikunator
       %w(
         heron egret swan goose mallard osprey eagle hawk kestrel falcon gull dove owl swallow blue\ jay crow chickadee bluebird
         robin catbird mockingbird vireo warbler cardinal sparrow junco blackbird grackle finch goldfinch starling kingbird phoebe swift oriole
-        thrasher pelican avocet tern cormorant raven wren tanager kinglet coot quail
+        thrasher pelican avocet tern cormorant raven wren tanager kinglet coot quail penguin 
       )
     end
   end
